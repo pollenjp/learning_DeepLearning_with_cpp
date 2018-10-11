@@ -1,0 +1,6 @@
+[submodule "source-code/DNN"]
+	path = source-code/DNN
+	url = https://github.com/takezo5096/DNN.git
+[submodule "source-code/cuMat"]
+	path = source-code/cuMat
+	url = https://github.com/takezo5096/cuMat.git

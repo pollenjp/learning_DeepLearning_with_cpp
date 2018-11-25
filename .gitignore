@@ -1,4 +1,6 @@
 # C++.gitignore
+
+[Bb]uild
 # Prerequisites
 *.d
 

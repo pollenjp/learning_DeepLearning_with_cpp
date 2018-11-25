@@ -3,11 +3,11 @@
 
 class List {
   public:
-  int num;
-  List *next = NULL;
-  List(int n ){
-    num = n;
-  }
+    int num;
+    List *next = NULL;
+    List(int n){
+      num = n;
+    }
 };
 
 
